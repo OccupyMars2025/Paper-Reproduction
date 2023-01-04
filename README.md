@@ -7,3 +7,4 @@
 ## [PaddleViT](https://github.com/BR-IDL/PaddleViT)
 ## [apple/ml-cvnets](https://github.com/apple/ml-cvnets/tree/main)
 ## https://github.com/rwightman/pytorch-image-models
+## https://twitter.com/wightmanr
