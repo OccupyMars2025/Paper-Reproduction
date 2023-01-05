@@ -8,4 +8,7 @@
 ## https://github.com/apple/ml-cvnets/tree/main
 ## https://github.com/apple/coremltools
 ## https://github.com/rwightman/pytorch-image-models
+
+# People:
+## https://sacmehta.github.io/ (Maintainer of https://github.com/apple/ml-cvnets/tree/main)
 ## https://twitter.com/wightmanr
