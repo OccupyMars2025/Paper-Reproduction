@@ -12,3 +12,9 @@
 # People:
 ## https://sacmehta.github.io/ (Maintainer of https://github.com/apple/ml-cvnets/tree/main)
 ## https://twitter.com/wightmanr
+## https://github.com/banyuanhao
+## https://ml.cs.tsinghua.edu.cn/~yinpeng/
+## https://github.com/dongyp13
+
+# papers to be studied:
+## https://openreview.net/forum?id=ZLcwSgV-WKH
